@@ -1,16 +1,19 @@
-### Hi there 👋
+## About Me 🚀
 
-<!--
-**HariharaJujjarapu/HariharaJujjarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Harihara, a passionate student on a journey of learning and exploration in the vast world of technology. Welcome to my GitHub repository, the hub of my coding adventures and academic pursuits.
 
-Here are some ideas to get you started:
+### Connect with Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [saiharihara.j2610@gmail.com](mailto:saiharihara.j2610@gmail.com)
+- 📷 Instagram: [@__harihara__](https://www.instagram.com/__harihara__/)
+
+### Areas of Study:
+
+- Currently pursuing B.Tech in Computer Science and Engineering (C.S.E)
+
+### Current Focus:
+
+- Exploring Full Stack Web Development
+
+
+Feel free to explore my projects, share your thoughts, or let's collaborate on some exciting coding adventures! 🚀
