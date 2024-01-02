@@ -14,6 +14,7 @@
 ### Current Focus:
 
 - Exploring Full Stack Web Development
+- Competitive Programming
 
 
 Feel free to explore my projects, share your thoughts, or let's collaborate on some exciting coding adventures! 🚀
