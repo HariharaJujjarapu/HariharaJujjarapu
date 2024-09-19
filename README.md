@@ -13,7 +13,7 @@
 
 ### Current Focus:
 
-- Exploring Full Stack Web Development
+- Machine Learning
 - Competitive Programming
 
 
