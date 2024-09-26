@@ -5,7 +5,7 @@
 ### Connect with Me:
 
 - 📧 Email: [saiharihara.j2610@gmail.com](mailto:saiharihara.j2610@gmail.com)
-- 📷 Instagram: [@__harihara__](https://www.instagram.com/__harihara__/)
+- 📷 Instagram: [@__harihara__](https://www.instagram.com/harihara_jujjarapu?igsh=MTN2bDFmNGcwczV3eg%3D%3D&utm_source=qr)
 
 ### Areas of Study:
 
